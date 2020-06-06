@@ -17,16 +17,16 @@ We are looking for a person that wants to work with:
 - Google Cloud 
 - Future interest in Golang and Rust 
 
-You are not supposed to know all these technologies beforehand, but you should have the interested in learning them. 
+You are not supposed to know all these technologies beforehand, but you should be interested in learning them. 
 
 Why should you work at GreenMobility: 
 
-- We have a high focus on Continues Integration and Continues Deployment. It should be easy to test and roll out new software.  
+- We have a high focus on Continuous Integration and Continuous Deployment. It should be easy to test and roll out new software.  
 - We focus on testing and use Pull Requests for collaboration. 
 - We are an established company with many great people. 
 - We want to see more electric vehicles on the streets  
 
-We believe in everyone should work the best way they do. That means that everyone is allowed to work from home, but since we are an early team, we expect some collaboration at the office. Also, we have great lunch and coffee at the office! 
+We believe everyone should work the best way they can. That means that everyone is allowed to work from home, but since we are an early team, we expect some collaboration at the office. Also, we have great lunch and coffee at the office! 
 
 We are located at Landgreven 3, 1301 Copenhagen. 
 
